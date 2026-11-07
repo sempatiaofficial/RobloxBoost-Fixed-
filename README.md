@@ -1,5 +1,5 @@
-# RobloxFixed
-RobloxFixed - fix roblox image
+# RobloxBoost
+RobloxBoost (ранее RobloxFixed) - fix roblox image
 
 
 **Программа находится в разработке**
